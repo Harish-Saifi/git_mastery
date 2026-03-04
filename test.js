@@ -1,0 +1,1 @@
+console.log('Hello ! Git in another file') 
