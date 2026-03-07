@@ -1,4 +1,4 @@
-This is the readme file 
+Hello Guys, Understanding git is an essential part in development.
 
 I am praticing my git skills 
 
